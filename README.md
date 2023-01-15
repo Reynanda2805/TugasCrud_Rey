@@ -9,7 +9,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/albeisoft/products-laravel-crud-ajax.git
+git remote add origin https://github.com/Reynanda2805/TugasCrud_Rey.git
 
 Then cd into the folder with this command:
 
